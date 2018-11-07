@@ -5,7 +5,9 @@ category: Projector Highlight
 toc: false
 ---
 
+<center>
 ![](/img/12.png)
+  </center>
 
 ## It’s cool you are fine with these traditional dating events. But there is something else you can try together.
 
