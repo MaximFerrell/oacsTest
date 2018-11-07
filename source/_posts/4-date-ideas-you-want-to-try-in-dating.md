@@ -5,15 +5,9 @@ category: projector highlight
 toc: false
 ---
 
-<center>
-![](/img/12.png)
-  </center>
-
 ## It’s cool you are fine with these traditional dating events. But there is something else you can try together.
 
 Tired of same old-fashioned cinema dating? Done with pubs or cafeteria and want some intimate dates? It’s cool you are fine with these traditional dating events. But there is something else you can try together, especially when things go well, you want to learn more about your beloved one! Here are some new ideas on what to do on dating:
-
-<!-- more -->
 
 #### Grocery shopping and cook together
 Save the haute cuisine in expensive French restaurant for anniversary and give the cooking date a spin. You, can start from a nearby international grocery store and choose with new recipes and ingredients. During cooking, you not only get to know your significant other’s food preference and cook level, the interaction between you two can also help to create a closed bond. When you’ve done the work, decorate your dinner feast on the floor using soft pillows. Small bites that you can feed each other will add to the romantic evening.
@@ -21,6 +15,8 @@ Save the haute cuisine in expensive French restaurant for anniversary and give t
 <center>
 ![](/img/9.png)
 </center>
+
+<!-- more -->
 
 #### Movie Marathon
 Sure, it’s a bit of a cliché date, movie marathon combining with the first ideas can be so much the better. A well-planned at home movie dating can no doubt win his/her favor. Prepare the delicious food and drink, a cozy blanket on the sofa, your favorite movies, and a home projector that gives you good movie experience. Imagine how at ease you will be at your little private space! You can even play tricks on theme selection, such as romantic movie or horrible movie. No need to worry about interruption anymore. But remember, the intimacy built on communications takes time and trust. Opinion sharing on movies is a good way to improve mutual understanding.
