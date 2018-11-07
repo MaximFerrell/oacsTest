@@ -1,7 +1,7 @@
 ---
 title: USB 1.1
 date: 2018-9-10 22:59:00
-category: USB and The Detail
+category: usb and the detail
 ---
 
 ![](/img/4.jpg)
