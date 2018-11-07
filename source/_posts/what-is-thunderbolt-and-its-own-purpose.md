@@ -1,7 +1,7 @@
 ---
 title: What Is Thunderbolt and its own purpose
 date: 2018-8-13 23:06:00
-category: High Speed Cable
+category: high speed cable
 ---
 
 ![](/img/8.png)
