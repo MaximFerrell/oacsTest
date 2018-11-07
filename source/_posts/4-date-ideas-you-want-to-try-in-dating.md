@@ -5,6 +5,8 @@ category: Projector Highlight
 toc: false
 ---
 
+![](/img/12.png)
+
 ## It’s cool you are fine with these traditional dating events. But there is something else you can try together.
 
 Tired of same old-fashioned cinema dating? Done with pubs or cafeteria and want some intimate dates? It’s cool you are fine with these traditional dating events. But there is something else you can try together, especially when things go well, you want to learn more about your beloved one! Here are some new ideas on what to do on dating:
