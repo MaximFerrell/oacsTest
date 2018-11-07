@@ -1,7 +1,7 @@
 ---
 title: USB 3.0
 date: 2018-8-27 23:03:00
-category: USB and The Detail
+category: usb and the detail
 ---
 
 ![](/img/6.jpg)
