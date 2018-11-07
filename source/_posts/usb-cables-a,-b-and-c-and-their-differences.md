@@ -1,7 +1,7 @@
 ---
 title: USB Cables A, B and C and Their Differences
 date: 2018-9-02 23:04:00
-category: Types of USB
+category: types of usb
 ---
 
 ![](/img/7.jpg)
