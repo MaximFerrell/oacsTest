@@ -1,7 +1,7 @@
 ---
 title: USB 2.0
 date: 2018-9-06 23:00:00
-category: USB and The Detail
+category: usb and the detail
 ---
 
 ![](/img/5.jpg)
