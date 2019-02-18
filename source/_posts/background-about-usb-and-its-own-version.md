@@ -1,7 +1,7 @@
 ---
 title: Background About USB and its own version
 date: 2018-9-12 22:57:00
-category: usb highlight
+category: highlight
 ---
 
 ![](/img/3.jpg)
