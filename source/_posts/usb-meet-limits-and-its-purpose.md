@@ -1,7 +1,7 @@
 ---
 title: USB meet limits and its purpose
 date: 2018-8-29 22:55:00
-category: usb highlight
+category: highlight
 ---
 
 ![](/img/2.jpg)
