@@ -1,7 +1,7 @@
 ---
 title: What is USB, what it's made of
 date: 2018-8-05 22:53:00
-category: definition of usb
+category: usb and the detail
 ---
 
 ![](/img/1.jpg)
