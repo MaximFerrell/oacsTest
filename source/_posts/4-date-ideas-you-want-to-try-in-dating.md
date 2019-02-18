@@ -1,7 +1,7 @@
 ---
 title: 4 Date Ideas You Want to Try in Dating
 date: 2018-11-01 18:46:00
-category: projector highlight
+category: the projector
 toc: false
 ---
 
